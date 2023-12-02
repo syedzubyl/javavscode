@@ -20,7 +20,7 @@ public static void main(String[] arr) {
 		System.out.print(arr[j]+" ");
 	}
 	a.close();
-	System.out.println("the Sum of given lits of arrys is"+ sun(ar,ai));
+	System.out.println("the Sum of giv en lits of arrys is"+ sun(ar,ai));
 }
 public static int sun(int arr[],int len) {
 	if (len == 0) {
